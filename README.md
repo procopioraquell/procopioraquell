@@ -1,15 +1,24 @@
 Olá, eu sou a Raquel Procopio 👋
 
-<div>
-  <a href="https://github.com/procopioraquell">
-    <img height="180cm" src="https://github-readme-status.vercel.app/api?username=procopioraquell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180cm" src="https://github-readme-status.vercel.app/api/top-langs/?username=procopioraquell&layout=compact&langs_cont=16&theme=dracula" />
-  </a>
-</div>
+SOBRE MIM
+🌎 Duque de Caxias, Rio de Janeiro.
+📚 Cursando Análise e Desenvolvimento de Sistemas na Univerdade Unigranrio Afya
+🎓 Técnica em Informática
 
 
+👩‍💻 Interesses profissionais:
+🖥️ Meu interesse principal está no desenvolvimento de software e front-end.  
+ 
+🌱 O que estou fazendo:
+🤝 Atualmente estudando mais sobre JavaScript e UX 
+🤝 Continuamente aprimorando minhas habilidades e aplicando-as em projetos pessoais.
 
-- 🔭 Hoje eu trabalho com administração
-- 🌱 Estudando JavaScript
-- 📫 Contate-me: tech.raquell@gmail.com
--
+📈 Meus objetivos:
+Criar soluções com interfaces visuais bonitas e de alta qualidade que melhoram a experiência do usuário.
+
+📫 Entre em contato:
+💬 Sinta-se à vontade para entrar em contato para colaborações ou apenas um bate-papo técnico!
+📧 E-mail: para tech.raquell@gmail.com
+🔗 LinkedIn: Raquel Procopio Santos
+
+
