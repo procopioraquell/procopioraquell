@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá, eu sou a Raquel Procopio 👋
 
-<!--
-**procopioraquell/procopioraquell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/procopioraquell">
+    <img height="180cm" src="https://github-readme-status.vercel.app/api?username=procopioraquell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180cm" src="https://github-readme-status.vercel.app/api/top-langs/?username=procopioraquell&layout=compact&langs_cont=16&theme=dracula" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Hoje eu trabalho com administração
+- 🌱 Estudando JavaScript
+- 📫 Contate-me: tech.raquell@gmail.com
+-
