@@ -2,11 +2,10 @@
 
 #### SOBRE MIM
 
-🌎 Duque de Caxias, Rio de Janeiro
-
-📚 Cursando Análise e Desenvolvimento de Sistemas na Universidade Unigranrio Afya
-
+🌎 Duque de Caxias, Rio de Janeiro                                                                 
+📚 Cursando Análise e Desenvolvimento de Sistemas na Universidade Unigranrio Afya                                                        
 🎓 Técnica em Informática
+
 
 
 #### INTERESSES PROFISSIONAIS
@@ -15,7 +14,7 @@
 
 
 #### O QUE ESTOU FAZENDO
-🤝 Atualmente estudando mais sobre JavaScript e UX
+🤝 Atualmente estudando mais sobre JavaScript e UX                                                                                            
 🤝 Continuamente aprimorando minhas habilidades e aplicando-as em projetos pessoais.
 
 
