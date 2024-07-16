@@ -23,6 +23,6 @@
 
 #### Entre em contato
 
-💬 Sinta-se à vontade para entrar em contato para colaborações ou apenas um bate-papo técnico!
-📧 E-mail: tech.raquell@gmail.com
+💬 Sinta-se à vontade para entrar em contato para colaborações ou apenas um bate-papo técnico                        
+📧 E-mail: tech.raquell@gmail.com                                                                                 
 🔗 LinkedIn: [Raquel Procopio Santos](https://www.linkedin.com/in/raquel-procopio-santos)
