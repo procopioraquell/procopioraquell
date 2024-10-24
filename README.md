@@ -48,7 +48,7 @@
 
 #### GITHUB STATISTICS: 
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=procopioraquell&show_icons=true&locale=en&theme=dark&hide_langs_below=1" alt="procopioraquell" />
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=procopioraquell&show_icons=true&locale=en&layout=compact" alt="procopioraquell" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=procopioraquell&show_icons=true&locale=en&layout=compact&theme=dark&hide_langs_below=1" alt="procopioraquell" />
 
 
 
