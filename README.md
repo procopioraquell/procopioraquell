@@ -4,7 +4,7 @@
 
 🌎 Duque de Caxias, Rio de Janeiro  
 🎓 Técnica em Informática             
-📚 Cursando o 3º periodo de Análise e Desenvolvimento de Sistemas na Universidade Unigranrio Afya                                                        
+📚 Cursando o 4º periodo de Análise e Desenvolvimento de Sistemas na Universidade Unigranrio Afya                                                        
 
 
 #### INTERESSES PROFISSIONAIS
@@ -39,7 +39,6 @@
 #### HABILIDADES QUE PRETENDO DESENVOLVER: 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
